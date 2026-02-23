@@ -11,7 +11,7 @@ import { testimonials, aggregateRating } from "@/lib/data/testimonials";
 export const metadata: Metadata = {
   title: "Avis Clients | Témoignages",
   description:
-    "Découvrez les avis de nos clients satisfaits. Note moyenne de 4.8/5 sur Google. Témoignages vérifiés de nos chantiers de maçonnerie.",
+    "Découvrez les avis de nos clients satisfaits. Note moyenne de 4.8/5 sur Google. Témoignages vérifiés de nos chantiers de ravalement et nettoyage.",
 };
 
 export default function AvisClientsPage() {

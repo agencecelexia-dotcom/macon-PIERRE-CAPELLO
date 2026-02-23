@@ -26,16 +26,16 @@ interface DashboardData {
 // --------------- Constants ---------------
 
 const SERVICE_LABELS: Record<string, string> = {
-  construction: "Construction neuve",
-  renovation: "Rénovation",
-  extension: "Gros Œuvre",
+  toiture: "Démoussage Toiture",
+  facade: "Ravalement Façade",
+  peinture: "Peinture",
   autre: "Autre",
 };
 
 const SERVICE_COLORS: Record<string, string> = {
-  construction: "#E67E22",
-  renovation: "#2C3E50",
-  extension: "#27AE60",
+  toiture: "#E67E22",
+  facade: "#2C3E50",
+  peinture: "#27AE60",
   autre: "#95A5A6",
 };
 
@@ -371,7 +371,7 @@ export function DashboardClient({ data }: { data: DashboardData }) {
       >
         <div className="p-6 border-b border-white/10">
           <h2 className="font-bold text-lg tracking-tight">
-            B.C.M Construction
+            Ravalement Nettoyage Capello
           </h2>
           <p className="text-white/40 text-xs mt-0.5">Administration</p>
         </div>
@@ -437,7 +437,7 @@ export function DashboardClient({ data }: { data: DashboardData }) {
               {tab === "analytics" && "Analytics"}
             </h1>
             <p className="text-xs text-neutral-400">
-              Bonjour Muammer — dernière mise à jour à l&apos;instant
+              Bonjour Pierre — dernière mise à jour à l&apos;instant
             </p>
           </div>
           <button
@@ -710,7 +710,7 @@ export function DashboardClient({ data }: { data: DashboardData }) {
                               </button>
                             )}
                             <a
-                              href={`mailto:${sub.email}?subject=Votre demande de devis - B.C.M Construction`}
+                              href={`mailto:${sub.email}?subject=Votre demande de devis - Ravalement Nettoyage Capello`}
                               className="px-4 py-2 text-xs bg-primary/10 text-primary rounded-lg hover:bg-primary/20 transition-colors"
                             >
                               Répondre par email

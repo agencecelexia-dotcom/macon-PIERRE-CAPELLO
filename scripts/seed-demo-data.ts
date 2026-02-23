@@ -13,21 +13,21 @@ if (!existsSync(STORAGE_DIR)) mkdirSync(STORAGE_DIR, { recursive: true });
 
 const prenoms = ["Marie", "Pierre", "Sophie", "Laurent", "Isabelle", "Nicolas", "Catherine", "Antoine", "Nathalie", "François"];
 const noms = ["Martin", "Bernard", "Petit", "Robert", "Richard", "Morel", "Moreau", "Simon", "Laurent", "Michel"];
-const types = ["construction", "renovation", "extension", "autre"];
+const types = ["toiture", "facade", "peinture", "autre"];
 const timelines = ["urgent", "3-mois", "6-mois", "estimation"];
-const codes = ["26200", "26130", "26290", "26700", "26780", "07400", "07150", "26220", "26230", "07700"];
+const codes = ["44300", "44220", "44470", "44800", "44400", "44100", "44120", "85000", "85300", "14800"];
 const messages = [
-  "Nous souhaitons construire une maison neuve sur un terrain acquis récemment.",
-  "Rénovation complète d'une maison des années 60, murs porteurs à reprendre.",
-  "Extension de 30m² à l'arrière de notre pavillon pour un salon plus grand.",
-  "Création d'un garage attenant à la maison avec fondations.",
-  "Reprise de fissures sur façade et renforcement de la structure.",
-  "Surélévation d'un étage sur maison plain-pied existante.",
-  "Mur de clôture en parpaing + enduit sur 40 mètres linéaires.",
-  "Ouverture dans un mur porteur pour agrandir la cuisine.",
+  "Toiture couverte de mousse depuis plusieurs années, besoin d'un démoussage complet avec traitement.",
+  "Ravalement de façade sur maison des années 70, crépi fissuré par endroits.",
+  "Peinture intérieure complète d'un appartement T3 (salon, 2 chambres, cuisine).",
+  "Nettoyage de terrasse en dalles + traitement anti-mousse.",
+  "Hydrofuge de toiture après démoussage, tuiles terre cuite.",
+  "Ravalement façade + peinture volets et portail.",
+  "Démoussage toiture ardoise 120m² + nettoyage gouttières.",
+  "Peinture extérieure façade après ravalement, 2 couches.",
   "",
-  "Terrasse en béton décoratif 50m² + muret de soutènement.",
-  "Réfection complète de la toiture avec charpente à reprendre.",
+  "Nettoyage façade pierre + traitement anti-mousse préventif.",
+  "Démoussage toiture fibrociment + application hydrofuge.",
   "",
 ];
 
@@ -65,15 +65,15 @@ const pages = [
   "/", "/", "/", "/", "/",
   "/contact", "/contact", "/contact",
   "/services", "/services",
-  "/construction-neuve", "/construction-neuve",
-  "/renovation-maconnerie", "/renovation-maconnerie",
-  "/gros-oeuvre",
+  "/demoussage-toiture", "/demoussage-toiture",
+  "/ravalement-facade", "/ravalement-facade",
+  "/peinture",
   "/realisations", "/realisations",
   "/avis-clients",
   "/a-propos",
   "/blog",
-  "/blog/prix-maconnerie-2026",
-  "/blog/choisir-son-macon",
+  "/blog/prix-demoussage-toiture-2026",
+  "/blog/entretenir-toiture-guide-complet",
   "/mentions-legales",
 ];
 
@@ -126,7 +126,7 @@ for (let day = 13; day >= 0; day--) {
       id: crypto.randomUUID(),
       createdAt: d.toISOString(),
       type: "cta_click",
-      page: Math.random() > 0.5 ? "/" : "/construction-neuve",
+      page: Math.random() > 0.5 ? "/" : "/demoussage-toiture",
       label: ctaLabels[Math.floor(Math.random() * ctaLabels.length)],
       ua: "Mozilla/5.0",
     });

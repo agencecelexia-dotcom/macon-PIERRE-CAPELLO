@@ -15,7 +15,7 @@ export function BreadcrumbJsonLd({ items }: BreadcrumbJsonLdProps) {
       "@type": "ListItem",
       position: index + 1,
       name: item.name,
-      item: `https://www.bcmconstruction.fr${item.href}`,
+      item: `https://www.ravalement-nettoyage-capello.com${item.href}`,
     })),
   };
 

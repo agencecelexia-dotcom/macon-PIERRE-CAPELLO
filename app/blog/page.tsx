@@ -10,9 +10,9 @@ import { blogPosts } from "@/lib/data/blog-posts";
 import { Calendar, Clock, ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Blog Maçonnerie | Conseils, Prix & Guides",
+  title: "Blog Ravalement & Nettoyage | Conseils, Prix & Guides",
   description:
-    "Retrouvez nos articles et guides sur la maçonnerie : prix au m², conseils pour choisir son maçon, réglementation, astuces de rénovation et construction.",
+    "Retrouvez nos articles et guides sur le ravalement et le nettoyage : prix démoussage, entretien toiture, produits professionnels, aides financières.",
 };
 
 export default function BlogPage() {
@@ -35,8 +35,8 @@ export default function BlogPage() {
             Notre blog
           </h1>
           <p className="text-lg md:text-xl text-white/60 max-w-2xl mx-auto font-light leading-relaxed">
-            Conseils, guides pratiques et actualités de la maçonnerie pour vous
-            aider dans vos projets de construction et rénovation.
+            Conseils, guides pratiques et actualités du ravalement et nettoyage pour vous
+            aider dans vos projets d&apos;entretien et rénovation.
           </p>
         </div>
       </section>

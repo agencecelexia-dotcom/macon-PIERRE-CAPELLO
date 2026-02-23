@@ -6,7 +6,7 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal";
 export const metadata: Metadata = {
   title: "Nos Réalisations | Photos Avant/Après",
   description:
-    "Découvrez nos réalisations en maçonnerie : construction neuve, rénovation, extension. Photos avant/après de nos chantiers récents. Qualité et savoir-faire.",
+    "Découvrez nos réalisations en ravalement et nettoyage : démoussage toiture, ravalement façade, peinture. Photos avant/après de nos chantiers récents.",
 };
 
 export default function RealisationsPage() {

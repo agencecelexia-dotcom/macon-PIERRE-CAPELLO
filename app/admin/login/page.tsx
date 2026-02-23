@@ -67,7 +67,7 @@ export default function AdminLoginPage() {
           <h1 className="text-2xl font-bold text-white tracking-tight">
             Administration
           </h1>
-          <p className="text-white/40 text-sm mt-1">B.C.M Construction</p>
+          <p className="text-white/40 text-sm mt-1">Ravalement Nettoyage Capello</p>
         </div>
 
         <form
