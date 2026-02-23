@@ -1,0 +1,5160 @@
+[
+  {
+    "id": "295833ef-20ae-43b5-935b-a13fdf54effe",
+    "createdAt": "2026-02-06T06:20:02.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3a40c365-f4dd-4ce5-b635-7f610eefd73b",
+    "createdAt": "2026-02-06T06:50:40.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "245f3810-40e3-44af-a508-fdc3ac19f852",
+    "createdAt": "2026-02-06T07:01:50.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a13791b3-6ec4-4411-93b7-fc6ebd5cc2dd",
+    "createdAt": "2026-02-06T07:28:59.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "1d91c08b-e7b4-4bb6-b0ad-cd214eb052ec",
+    "createdAt": "2026-02-06T07:31:47.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "55e90c3a-6445-4a96-8710-a966d9436d46",
+    "createdAt": "2026-02-06T07:57:09.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "12829c5a-c7af-48bd-b19b-9582433ceed2",
+    "createdAt": "2026-02-06T08:49:27.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d2e9cdad-8971-48f1-8755-6de378713904",
+    "createdAt": "2026-02-06T09:19:54.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6c210dd9-f075-4764-8327-b8a053adee51",
+    "createdAt": "2026-02-06T09:57:37.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "86739d5c-273a-42c6-af73-12c73088b1dd",
+    "createdAt": "2026-02-06T11:01:34.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b2d7877e-01a1-41eb-90fe-a03e7cf732a4",
+    "createdAt": "2026-02-06T11:05:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6731e076-dfb3-4224-bd4c-5f104ab35fae",
+    "createdAt": "2026-02-06T11:50:30.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9394d5d7-103c-4c41-9472-abe3e8cc679f",
+    "createdAt": "2026-02-06T12:38:37.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "54609844-f3ee-45ef-8b1f-bd92f4b2f2e8",
+    "createdAt": "2026-02-06T13:43:27.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b000e6c6-e370-4912-9c2f-cd122def6f38",
+    "createdAt": "2026-02-06T14:34:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "78fa417f-e534-477b-8a03-cde649167f30",
+    "createdAt": "2026-02-06T14:40:54.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d97f25f2-80b5-4501-b0dd-65896ce4441f",
+    "createdAt": "2026-02-06T15:07:00.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c357a414-4dcd-42c5-b93a-f7c6d376a7de",
+    "createdAt": "2026-02-06T15:33:23.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "f15212ba-60ed-4c64-8857-3e8582553e6a",
+    "createdAt": "2026-02-06T16:30:45.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c61f0474-21a2-4d22-86ad-95095380a1fd",
+    "createdAt": "2026-02-06T16:37:44.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6e78fe7d-bbab-4abf-9e41-d5a3714e21d5",
+    "createdAt": "2026-02-06T16:52:43.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1c1e911f-1447-4504-86cc-c2e1e04f138b",
+    "createdAt": "2026-02-06T17:34:48.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5d3e95eb-e516-43b4-bcb7-2239d1bb1d4b",
+    "createdAt": "2026-02-06T17:41:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "4dff5a38-09ee-4b55-8fae-ddcff6fec723",
+    "createdAt": "2026-02-06T17:59:14.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "d16e4755-c91f-4818-9c20-3affdac9b0e9",
+    "createdAt": "2026-02-06T18:02:17.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1f7c0005-b7dd-41f2-9654-7540a63d0df3",
+    "createdAt": "2026-02-06T18:25:05.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "df130f2f-98c0-4230-b2f0-5fe7418d5016",
+    "createdAt": "2026-02-06T19:01:16.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "419c3d45-e343-40c9-9c4f-bd234f7782c7",
+    "createdAt": "2026-02-06T19:15:32.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4917dd59-6269-4193-8837-5800cc748078",
+    "createdAt": "2026-02-06T20:11:39.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2d215d30-9d9e-449e-894b-3a1e0c09b596",
+    "createdAt": "2026-02-06T20:22:19.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c14d68cd-4648-4f61-ba6e-fab0fcfebfd8",
+    "createdAt": "2026-02-06T20:46:53.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0dc386c6-46b6-4c54-9a19-72b7a57613d0",
+    "createdAt": "2026-02-07T06:07:48.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a0a2aa53-7b19-4e61-9adc-15f0eec4cf05",
+    "createdAt": "2026-02-07T07:54:47.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a3156427-54ba-4332-8075-2740310743cd",
+    "createdAt": "2026-02-07T08:27:04.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "72e23dcd-e0d1-4e2b-b301-63609c9d82e9",
+    "createdAt": "2026-02-07T08:39:24.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "a112781f-7d35-482b-9094-e05dec6bc9bd",
+    "createdAt": "2026-02-07T09:04:06.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f04ef9ef-942b-4f4c-8536-849c69692103",
+    "createdAt": "2026-02-07T09:05:56.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5c756c33-c0d0-4835-bdaa-0598938ea760",
+    "createdAt": "2026-02-07T09:12:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "22a21a96-152e-4f51-94c9-e746ff0153d3",
+    "createdAt": "2026-02-07T09:34:49.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c8d09251-2b7c-4d77-96d1-4b7b0ff2809d",
+    "createdAt": "2026-02-07T09:56:30.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b0f98bdb-1bc3-4a2f-be0c-0e4bea491871",
+    "createdAt": "2026-02-07T10:23:37.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cec28c2c-0dfe-4a00-8827-9ec20a81b06c",
+    "createdAt": "2026-02-07T10:29:04.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "009f7e92-bcce-4582-957c-6f66cf6f7d64",
+    "createdAt": "2026-02-07T11:03:21.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6e0cc124-e7e4-460c-ae65-75a6bab5c179",
+    "createdAt": "2026-02-07T11:13:02.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9af8e79d-606b-4f2c-8a0c-db8cdf6b6f38",
+    "createdAt": "2026-02-07T11:16:23.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "335122cb-49e6-4527-b7a5-86ff35060aa6",
+    "createdAt": "2026-02-07T11:38:09.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "d8dc58eb-17ee-45f3-8564-905be7f7816e",
+    "createdAt": "2026-02-07T11:41:05.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bd6f0045-003e-4c0b-915f-1b197221dc59",
+    "createdAt": "2026-02-07T11:57:27.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ebf9c57f-d014-4e2f-a685-86d522a8266f",
+    "createdAt": "2026-02-07T12:30:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "e885331c-2e71-4f9e-8f25-53540d269af8",
+    "createdAt": "2026-02-07T12:39:05.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4c4774d1-7634-4b90-863c-7783aef1fb25",
+    "createdAt": "2026-02-07T12:52:10.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0341d9c4-c9e1-4fd0-918c-0501f70512da",
+    "createdAt": "2026-02-07T13:26:52.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "367474f2-17a7-420f-84a8-3fb77bc7eb58",
+    "createdAt": "2026-02-07T14:02:41.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "11e60a02-817d-49c7-b7e6-4ec600a66139",
+    "createdAt": "2026-02-07T16:37:13.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c2159336-f7df-4830-b14c-3b09f5715f6c",
+    "createdAt": "2026-02-07T16:50:07.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "fb872232-9cfe-4c56-ac69-8892d48e5bd3",
+    "createdAt": "2026-02-07T17:40:14.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "343ded90-02e7-4e99-bc2f-a227baa72e5e",
+    "createdAt": "2026-02-07T17:57:06.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "91a44708-cb3d-4cd4-b832-adadbccf8bb3",
+    "createdAt": "2026-02-07T17:57:15.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9279e9ec-09e3-4ce9-af66-ed5530ea5be3",
+    "createdAt": "2026-02-07T18:18:51.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cf63c1d6-cb7c-4f15-bc96-01b1ca0bcc71",
+    "createdAt": "2026-02-07T18:38:25.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3b70e194-fd37-4dd6-9e50-ad7d1aaf0ac2",
+    "createdAt": "2026-02-07T19:42:56.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "80a6a1fb-811a-40e6-816d-c74dab1f0d19",
+    "createdAt": "2026-02-07T19:46:45.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2ca5e10e-62ca-4a0b-b66f-bd46bb7bcb04",
+    "createdAt": "2026-02-07T20:03:06.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b1bf4228-ad0d-4f74-adfd-7aaf9a250a4d",
+    "createdAt": "2026-02-07T20:10:56.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7055ed29-0e28-413b-af26-594f730aaac1",
+    "createdAt": "2026-02-08T07:09:06.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5e935dcc-3db7-4a71-a4bf-9bdc85ff14fb",
+    "createdAt": "2026-02-08T07:33:29.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cc974369-f968-4997-9364-4103e41c1a1d",
+    "createdAt": "2026-02-08T07:37:07.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "efddb556-6d73-4ee4-9162-fc7a341f020d",
+    "createdAt": "2026-02-08T08:05:33.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5ceec58f-b3c8-41ae-ad46-afcc96f753b3",
+    "createdAt": "2026-02-08T08:22:22.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8d3050d9-a101-4bcd-96d3-56d6e57c426c",
+    "createdAt": "2026-02-08T09:18:18.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bf3c280c-fdb9-49dc-8e34-a29b47cc5ded",
+    "createdAt": "2026-02-08T10:02:57.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a3ab13c9-d9ff-4731-933f-aff43021f2b2",
+    "createdAt": "2026-02-08T10:23:21.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d2512083-d388-41b7-81ff-b8621936d7da",
+    "createdAt": "2026-02-08T10:44:54.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7f7a4fe5-12e6-472a-bcfc-3e2193d98b92",
+    "createdAt": "2026-02-08T10:44:56.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4c05ca49-3eea-4df6-8adb-05baab3543e8",
+    "createdAt": "2026-02-08T10:45:39.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6091eb80-7aa2-4b95-a88b-dfc6d64b6f55",
+    "createdAt": "2026-02-08T10:56:55.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "13acb847-2202-4c99-8c64-73cb41c106b1",
+    "createdAt": "2026-02-08T13:07:25.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5fd0299d-0d60-4a6e-aa34-bba31e763ec2",
+    "createdAt": "2026-02-08T14:37:40.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "f0b5507b-f4a8-48a3-b159-54814083e0e8",
+    "createdAt": "2026-02-08T14:53:12.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "790ce677-9e13-4cd0-8f0a-7532c7f4627a",
+    "createdAt": "2026-02-08T15:02:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "a227b34a-5171-45a7-ac35-97b0160a86b8",
+    "createdAt": "2026-02-08T15:04:45.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b751820a-111d-4e3f-b7df-df512b2f989a",
+    "createdAt": "2026-02-08T15:10:46.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a41d31ce-0a08-4e6a-8f94-a854de7600e2",
+    "createdAt": "2026-02-08T15:15:26.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "373cd2ed-8cee-465a-8259-befa38f754ce",
+    "createdAt": "2026-02-08T15:32:01.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d6639a5d-7307-47b3-b44c-461ffe4561a2",
+    "createdAt": "2026-02-08T15:37:50.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2dc10437-b07f-41d9-b610-649cba936cae",
+    "createdAt": "2026-02-08T15:43:24.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ffda3609-5879-45b2-a4b1-7c7ff4fc6c71",
+    "createdAt": "2026-02-08T15:44:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "861e0625-21b5-4c55-acbc-246df971d2e5",
+    "createdAt": "2026-02-08T16:15:09.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d3184552-dd2b-4b72-8173-4873666b2dba",
+    "createdAt": "2026-02-08T16:16:11.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d4f8606e-9c53-418c-bc5f-007bace2ccdb",
+    "createdAt": "2026-02-08T16:24:48.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a68292c2-a63e-4f37-b6b6-9cbc8f9d173e",
+    "createdAt": "2026-02-08T16:56:22.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1187f933-1c75-4b1d-bcfe-7ed9fb0de5da",
+    "createdAt": "2026-02-08T17:13:56.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b13b8e5d-2386-47d4-9dbb-94ac148f2c58",
+    "createdAt": "2026-02-08T17:19:00.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "30d8eb47-1578-4328-90ea-3aecb54ed9d0",
+    "createdAt": "2026-02-08T17:57:22.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "eafb81e5-662f-4d1c-bb62-bb79734aee99",
+    "createdAt": "2026-02-08T18:17:45.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "da65960f-069b-408f-8c17-aa057f79ae86",
+    "createdAt": "2026-02-08T18:34:28.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c4e24206-e5e1-469f-842e-bbb3d1799ec0",
+    "createdAt": "2026-02-08T18:39:40.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b5abc21e-ccf4-4333-a8fb-3628eb64d117",
+    "createdAt": "2026-02-08T18:45:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "132affe5-a3e5-4005-8847-fd0d337b1534",
+    "createdAt": "2026-02-08T19:06:18.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "036acecc-58ea-4dc4-bffb-3b97fa753155",
+    "createdAt": "2026-02-08T20:39:34.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3bd8100b-ddcc-47fd-a62d-deb3c7dca640",
+    "createdAt": "2026-02-08T20:49:03.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f3b2fe6a-2b1e-44d4-a46c-ec22682d1e08",
+    "createdAt": "2026-02-09T06:18:58.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c015e841-5905-4af7-82ad-3aeac50b7976",
+    "createdAt": "2026-02-09T06:24:19.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5b1e0f23-cc55-4486-8b9c-d8e37a2445b0",
+    "createdAt": "2026-02-09T07:16:01.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "931f5246-bd9f-44f4-831c-9088d5933ac6",
+    "createdAt": "2026-02-09T07:28:13.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b48cac30-2b2b-4a61-89ad-7abc2a0c66f7",
+    "createdAt": "2026-02-09T07:39:15.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e87316e2-202c-433c-ab7f-51fb8cb9791f",
+    "createdAt": "2026-02-09T07:51:37.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "aad61116-749c-440f-890f-59f1eaafa1f0",
+    "createdAt": "2026-02-09T08:38:12.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "730ac74b-3384-4ad6-905f-244368793931",
+    "createdAt": "2026-02-09T08:52:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "a73f5b7f-9806-4790-a63a-7730c4ede895",
+    "createdAt": "2026-02-09T09:01:01.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "099d1394-fa02-4478-961f-a63e8ed28ddb",
+    "createdAt": "2026-02-09T09:40:21.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d279cc9b-2011-4eec-abd8-35fb10e093ef",
+    "createdAt": "2026-02-09T11:24:49.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "230382b5-a6c5-4baf-98ea-6e825738b457",
+    "createdAt": "2026-02-09T11:51:50.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "318e7406-8120-44d5-9f75-9dbc51b3d062",
+    "createdAt": "2026-02-09T12:00:09.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "c466ddf1-d000-4384-8616-226fbe28de2e",
+    "createdAt": "2026-02-09T12:02:09.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ca059b8c-278f-463f-b252-f2912762a985",
+    "createdAt": "2026-02-09T12:10:28.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "4688390a-dc3d-4404-9cc1-777ed944e809",
+    "createdAt": "2026-02-09T12:41:53.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "27a6df16-4961-4d0b-8054-86df673933c7",
+    "createdAt": "2026-02-09T12:47:15.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f3ae260a-b705-4e20-a9f6-39180c8a95e2",
+    "createdAt": "2026-02-09T13:05:33.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4808f0e1-4964-426c-aa90-0c4a0a583cda",
+    "createdAt": "2026-02-09T13:31:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "22b9c740-ebd3-4d87-b907-27fc6fdc61f7",
+    "createdAt": "2026-02-09T13:31:56.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "156d22f4-6f2b-41a9-a038-c84d8a033cf2",
+    "createdAt": "2026-02-09T13:34:41.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7c6cfc3d-4e07-4d17-95e1-79265c5fad7b",
+    "createdAt": "2026-02-09T14:21:06.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "549d7778-761a-4fce-883a-39e39f4bde72",
+    "createdAt": "2026-02-09T14:42:43.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f2930a58-34cf-47fb-afe4-b37c7461cc7c",
+    "createdAt": "2026-02-09T14:57:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "680b0986-92e7-4c48-ab56-31db0d80e5ff",
+    "createdAt": "2026-02-09T15:43:26.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0286a2d0-1ae4-42b2-b767-ee328de5517f",
+    "createdAt": "2026-02-09T15:58:48.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cc3dc694-33be-4abd-8d33-9a777b1fbbf8",
+    "createdAt": "2026-02-09T16:10:28.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6a8190e5-dd3f-45c5-b9fa-e941c99e65a6",
+    "createdAt": "2026-02-09T16:17:16.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a4f1f0a7-cff7-4dc4-8513-46c7f6248554",
+    "createdAt": "2026-02-09T16:26:57.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "9061a02e-cab3-4f12-ba2b-333c11d5141f",
+    "createdAt": "2026-02-09T17:05:14.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "278f51bc-00e6-4fde-9860-39f7a5b351ac",
+    "createdAt": "2026-02-09T17:07:04.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "c73d501f-70b6-456d-bd62-8a5df6421d79",
+    "createdAt": "2026-02-09T17:12:53.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "d0fcdc21-61c1-4cf5-a43c-0165e77614d9",
+    "createdAt": "2026-02-09T17:26:37.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c221d3ef-27ee-4f3f-821e-924c2301203d",
+    "createdAt": "2026-02-09T18:19:19.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f2259442-00c2-468b-9dab-5579bdeb99cf",
+    "createdAt": "2026-02-09T18:44:04.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3973262f-99d3-4820-857b-19853eb03db3",
+    "createdAt": "2026-02-09T19:15:47.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3a4a3b2d-cc3c-4966-8e49-a6da0ef0a312",
+    "createdAt": "2026-02-09T19:52:27.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "edc08a35-c0fd-4c05-8322-4f80722e8972",
+    "createdAt": "2026-02-09T20:07:48.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "4f4759aa-c614-45f9-bead-bf34f3606302",
+    "createdAt": "2026-02-10T06:13:17.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b965a02a-b247-4e74-95ea-9abddeb93cf9",
+    "createdAt": "2026-02-10T06:28:07.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c617adff-4431-4ad1-a992-d36e3615e69b",
+    "createdAt": "2026-02-10T06:34:32.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cd3edddd-dedd-4721-ad77-d6237837799d",
+    "createdAt": "2026-02-10T06:52:27.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fc2d7530-5b74-4f41-b778-f503c8052eaf",
+    "createdAt": "2026-02-10T07:06:44.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3f38f068-5499-4a6d-9c85-e0e888be7190",
+    "createdAt": "2026-02-10T07:41:39.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "535a9212-c6e1-4fd7-9f69-b2b58858b950",
+    "createdAt": "2026-02-10T07:42:18.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7f0f82b7-3fa3-4690-8055-2229de93756e",
+    "createdAt": "2026-02-10T07:50:17.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b1da2594-7436-40ab-85d4-6b8fc031b87b",
+    "createdAt": "2026-02-10T08:13:59.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "0986493f-27ed-4251-8395-60b64b4aef93",
+    "createdAt": "2026-02-10T08:45:00.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "568e8348-1f6b-4791-845c-73ba9129d639",
+    "createdAt": "2026-02-10T09:27:18.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1126d4aa-fbeb-436c-9d34-d29f6e146fde",
+    "createdAt": "2026-02-10T09:27:22.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "09a1c7af-1e87-4fed-8cb7-1d53778400c0",
+    "createdAt": "2026-02-10T09:31:32.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "816956db-30f1-42e1-b709-2bbed21b46bd",
+    "createdAt": "2026-02-10T09:33:43.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7f80ff10-2fb0-4883-9c26-c2e9da200339",
+    "createdAt": "2026-02-10T09:34:04.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b6acacdb-0514-4593-b937-5ef4b307dd01",
+    "createdAt": "2026-02-10T09:39:10.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "26fef6d6-b682-473f-96b2-4440a64a9cbb",
+    "createdAt": "2026-02-10T09:43:47.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a8f2ec69-99f1-4d6d-a0f1-e55b5c17e6f6",
+    "createdAt": "2026-02-10T09:54:41.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "40f954a0-0aaa-4776-b6d3-f700f5f0c7a5",
+    "createdAt": "2026-02-10T09:55:06.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "c46678a4-982e-4cb1-9735-b32424d8852a",
+    "createdAt": "2026-02-10T09:55:54.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5687c848-191a-4bb8-9250-55a2358e4b8e",
+    "createdAt": "2026-02-10T10:06:27.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9ae25cdb-55ff-47d4-84d9-30b67d849224",
+    "createdAt": "2026-02-10T10:28:42.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "9a79f412-4bac-4ba8-8103-797b27c4affd",
+    "createdAt": "2026-02-10T10:35:56.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "85c0edf4-4061-4a83-a433-9e68edbcd133",
+    "createdAt": "2026-02-10T11:01:55.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1e239957-6570-4341-baf5-2fe5c18bc093",
+    "createdAt": "2026-02-10T11:07:56.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5403a268-f874-4e86-ad5e-08eca22f9fc1",
+    "createdAt": "2026-02-10T11:38:11.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bac97a58-2b08-4a6a-b7f5-cd1ff15d9d58",
+    "createdAt": "2026-02-10T12:01:44.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f6ce8c15-2266-46a5-b156-89c5b71c9add",
+    "createdAt": "2026-02-10T12:29:19.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e69edd06-a5d5-4791-a658-98e037f711f7",
+    "createdAt": "2026-02-10T12:36:54.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "68c60a4e-44f5-4efd-9738-3ca4a496a6d7",
+    "createdAt": "2026-02-10T13:00:36.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1dd85afd-f079-4398-a598-0d8c4b77d880",
+    "createdAt": "2026-02-10T13:02:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "bc500416-1b67-4ba6-bcf5-1d140bf534cb",
+    "createdAt": "2026-02-10T13:18:08.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d45305c3-2679-4b0e-b047-cded1324ee8b",
+    "createdAt": "2026-02-10T14:07:04.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fc98ce67-3fb6-41a4-84e3-eacb98f4138a",
+    "createdAt": "2026-02-10T14:09:58.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ef58c134-55a3-4205-82e9-4350d2768775",
+    "createdAt": "2026-02-10T14:28:22.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4cacce63-df7a-4bb8-840d-28b8acda675a",
+    "createdAt": "2026-02-10T15:22:54.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "65d59a7b-95c7-4f0e-b477-cbcc1944c0c2",
+    "createdAt": "2026-02-10T15:43:34.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "727d3c73-92a8-4fc1-98bd-17d7f8ac97ff",
+    "createdAt": "2026-02-10T16:06:37.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "c1b7eeb3-367f-4174-9ef0-dee0397183f6",
+    "createdAt": "2026-02-10T16:27:19.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "1996eb62-34bd-4aad-b4d7-de9ceb9e8f4c",
+    "createdAt": "2026-02-10T16:36:11.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "fc55d961-a5c0-40fd-82e9-e0b43cbee7c0",
+    "createdAt": "2026-02-10T16:39:00.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f5b84a5b-8a89-42e6-8666-9e94eec928dd",
+    "createdAt": "2026-02-10T17:00:48.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4c2444dd-afba-4bd5-97a3-e2e934b5a269",
+    "createdAt": "2026-02-10T17:12:27.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b5697456-ac74-4394-8e42-43a80af4adc3",
+    "createdAt": "2026-02-10T17:23:19.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9a51d3be-f2a1-4fb4-9417-a39fe30543a1",
+    "createdAt": "2026-02-10T17:34:07.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3c53c72d-44ac-4941-a7fe-b15a41de8f50",
+    "createdAt": "2026-02-10T17:57:22.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7e3f8577-436b-4b9e-a596-31eb4524cebe",
+    "createdAt": "2026-02-10T18:40:50.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "13c09099-82da-4aa8-acb6-f134a548e045",
+    "createdAt": "2026-02-10T19:07:43.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cacd5dca-7d46-4bf8-8c66-2e97eeb527cf",
+    "createdAt": "2026-02-10T19:12:19.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8b339642-325b-4a80-990d-cbac2dc9117c",
+    "createdAt": "2026-02-10T19:22:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "3ce5015c-59d1-4bb5-a579-628b7a2506f6",
+    "createdAt": "2026-02-10T19:33:56.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8fbf8a60-c292-46b0-8744-6a77fe79152f",
+    "createdAt": "2026-02-10T20:17:00.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2e2e2d8e-07dc-439a-a0a7-c75385210d83",
+    "createdAt": "2026-02-10T20:34:47.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "717de738-ed51-42db-8ee5-0697311bcb06",
+    "createdAt": "2026-02-10T20:37:34.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d05a5e4f-e656-4208-9ea5-4e1a72a4eb35",
+    "createdAt": "2026-02-10T20:40:06.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "305d3bc8-1910-4b43-a01b-119fe9a1ba2a",
+    "createdAt": "2026-02-10T20:57:27.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "68b54cf0-786f-475e-b8f6-836585c477b5",
+    "createdAt": "2026-02-11T06:05:56.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "08a10e7d-ad6a-42bc-a838-4a80d7b47de7",
+    "createdAt": "2026-02-11T06:10:42.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "27d15b54-b368-4316-bed0-4564b1657f30",
+    "createdAt": "2026-02-11T06:17:08.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fc7f0aaf-f982-4ccb-a728-96cc9eb9312e",
+    "createdAt": "2026-02-11T06:22:37.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "32c41737-3f70-4941-8ce9-f468f05c1b11",
+    "createdAt": "2026-02-11T06:28:23.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ba915625-4ca3-4d19-b9ec-a9e05f658f36",
+    "createdAt": "2026-02-11T06:45:11.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cf9e6ba7-7a3c-4a3c-8cd2-1e9fd49baff4",
+    "createdAt": "2026-02-11T06:51:34.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "92ecfc25-8bcb-47b7-984b-0927f527a4de",
+    "createdAt": "2026-02-11T07:50:19.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4ecf1d04-8387-4682-95ff-d56cc224ab76",
+    "createdAt": "2026-02-11T08:16:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "8accdd88-90fa-40af-a676-8a2b906a7982",
+    "createdAt": "2026-02-11T08:28:07.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a079a91d-c9ec-495b-b4e0-26c826e0eb50",
+    "createdAt": "2026-02-11T08:34:06.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f97dd51d-fa7b-46e3-adbc-43c180d4ffd8",
+    "createdAt": "2026-02-11T08:52:59.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "ab455133-73cc-4e0a-b27c-421f618bb485",
+    "createdAt": "2026-02-11T09:00:09.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4e921c35-fcbe-45cf-ad65-4c0446bf637e",
+    "createdAt": "2026-02-11T10:25:26.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b2a25d7e-f775-4083-92bf-4521fd9bbbf9",
+    "createdAt": "2026-02-11T10:50:14.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "79600592-553d-429f-b908-ceefcbf9096c",
+    "createdAt": "2026-02-11T11:45:09.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "733886c9-ae00-4597-ae2a-c97415bcd068",
+    "createdAt": "2026-02-11T11:54:36.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "24776888-2412-49f0-a09e-37f72d760e89",
+    "createdAt": "2026-02-11T12:27:13.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0c85e4c6-6630-4015-b837-ed4698f9301b",
+    "createdAt": "2026-02-11T12:32:01.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9490c3d7-742e-4baf-b976-9fc954ffe84c",
+    "createdAt": "2026-02-11T14:09:06.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bafef019-3951-4708-9a95-2318c55f9101",
+    "createdAt": "2026-02-11T14:09:52.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c49e72ce-c1ef-4879-aefb-32f6e2688aec",
+    "createdAt": "2026-02-11T14:22:12.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "77b553d2-3ee9-4ce7-bd02-065f50aa6f53",
+    "createdAt": "2026-02-11T14:31:07.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6ea7abd9-953f-4fb0-8440-628e01a9f070",
+    "createdAt": "2026-02-11T14:47:26.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d2d8de14-f7be-4080-9a5e-2b4665de167d",
+    "createdAt": "2026-02-11T14:59:06.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2b032a4e-811b-4fd6-8461-4cb0c51afea5",
+    "createdAt": "2026-02-11T15:05:57.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1b6998d8-6691-42f2-9a19-414d0e0f023b",
+    "createdAt": "2026-02-11T15:09:25.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "89c380f5-f7a6-4f43-9650-6f7132389aa8",
+    "createdAt": "2026-02-11T15:17:28.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "3fdb6505-1746-40f0-9880-a68b49c9a328",
+    "createdAt": "2026-02-11T15:24:32.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c815efc7-9f77-42f0-af70-ed8cdf81ef89",
+    "createdAt": "2026-02-11T15:38:26.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "eccdf831-d17d-43a7-845e-006554283e92",
+    "createdAt": "2026-02-11T15:48:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "3650921f-e592-45af-9fb1-eb5fd03f48e4",
+    "createdAt": "2026-02-11T16:14:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "8e58fbd1-82ff-4ba0-970a-db70ffb36a1b",
+    "createdAt": "2026-02-11T16:15:00.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ea2f7d9e-c0ce-4a13-84ba-1109eefdc97d",
+    "createdAt": "2026-02-11T16:17:35.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7bdf95f3-d9e5-4c1f-9a75-89fc69a6f84f",
+    "createdAt": "2026-02-11T17:22:40.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a15252a6-970e-4d0a-8504-0241d5612cf6",
+    "createdAt": "2026-02-11T17:45:30.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e89a757f-a076-4050-ba97-80b95092e669",
+    "createdAt": "2026-02-11T17:56:06.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7f66b17e-a07c-4a60-b413-1b47b5e7e026",
+    "createdAt": "2026-02-11T18:10:18.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4a80ae5e-b779-43f3-b9e1-e2724c517e68",
+    "createdAt": "2026-02-11T18:36:12.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "edcd1d21-b739-45f6-a188-b6430577c8f9",
+    "createdAt": "2026-02-11T19:23:18.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a2ca1d91-b99c-47b0-b467-bd166632e29a",
+    "createdAt": "2026-02-11T19:40:44.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fa424d9d-de76-4a5a-8282-9d89bd3fa26e",
+    "createdAt": "2026-02-11T19:52:40.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "85a059fb-0fff-48e0-b1f3-27375633208b",
+    "createdAt": "2026-02-11T20:05:26.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "216905c5-c7f4-41a4-a6b3-df0ce7d458ef",
+    "createdAt": "2026-02-11T20:05:45.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8d3bff58-6df2-4872-9244-5e45ad1a33d1",
+    "createdAt": "2026-02-12T06:17:09.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7b56d525-b395-475c-bf12-cd215ac670f1",
+    "createdAt": "2026-02-12T06:18:22.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "91322956-e75a-44c4-b072-194f6c9d1301",
+    "createdAt": "2026-02-12T07:01:43.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b03ef0e7-edef-43dd-b8d9-c3331c118110",
+    "createdAt": "2026-02-12T07:05:58.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3c0bfcca-7cec-4916-a337-176a895c3113",
+    "createdAt": "2026-02-12T08:22:18.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "764666f3-8fa8-4d23-a4f0-b4c32bd0c919",
+    "createdAt": "2026-02-12T08:48:14.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "36401c09-dd5f-4be0-8c85-d03dc652995b",
+    "createdAt": "2026-02-12T09:11:47.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "93e178a9-5e61-458e-8d55-742c5930a848",
+    "createdAt": "2026-02-12T09:25:48.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c44f45fe-79ef-4862-845f-9cff5938821a",
+    "createdAt": "2026-02-12T10:05:26.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "69f4c184-0863-4e34-94b2-b52c817b70b0",
+    "createdAt": "2026-02-12T10:23:41.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "735f3c43-8b57-4470-b500-d81e09bda130",
+    "createdAt": "2026-02-12T10:30:26.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "1895a8d9-22f7-4b68-a772-6072d854c2c9",
+    "createdAt": "2026-02-12T10:36:17.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "73062c7e-41f7-4499-ae36-85e1e8057cb8",
+    "createdAt": "2026-02-12T10:58:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "519792e0-1a1b-409b-9b0a-d4eebe1a8f36",
+    "createdAt": "2026-02-12T11:14:32.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "55c321c4-e6eb-4ee7-82a9-040dabea0e05",
+    "createdAt": "2026-02-12T11:16:57.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "37363f72-7085-4f87-91c7-f0ff3d76f0a1",
+    "createdAt": "2026-02-12T11:23:00.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9dacf790-2851-4dc5-93fc-e25eb0cb92ef",
+    "createdAt": "2026-02-12T11:31:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "08f12625-6117-428b-82d6-cff195978eb1",
+    "createdAt": "2026-02-12T12:04:02.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8da0ca0f-84b1-4730-b617-6b4928992227",
+    "createdAt": "2026-02-12T12:12:07.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8aad54eb-2124-45b8-8b61-e72989a78a04",
+    "createdAt": "2026-02-12T13:18:46.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9e3717e2-1620-4303-92ce-f6876a4994b5",
+    "createdAt": "2026-02-12T13:35:36.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b380307e-a4b1-4d41-acc3-8ac9167848a0",
+    "createdAt": "2026-02-12T13:48:50.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "735f71fe-9078-48df-927a-7255a8b5deb0",
+    "createdAt": "2026-02-12T14:13:06.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fc29e7fd-cb05-47e4-b8de-db16a6f0d8f0",
+    "createdAt": "2026-02-12T14:20:41.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "59e651ac-52f5-4813-a9f5-940a85ee6ea2",
+    "createdAt": "2026-02-12T14:44:41.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "48f47782-37d1-4d23-895d-89030a7ee488",
+    "createdAt": "2026-02-12T15:39:10.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6b09ad1f-8851-4e9b-aa0f-d778662da0fd",
+    "createdAt": "2026-02-12T15:46:50.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "eead1710-2d7f-47ba-a25c-bf8d65cce1f6",
+    "createdAt": "2026-02-12T16:21:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "56a705ba-e37b-4236-967c-335c7bfddf8e",
+    "createdAt": "2026-02-12T16:23:48.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "dd70fb02-1f67-45eb-a769-9a5160e9139a",
+    "createdAt": "2026-02-12T16:47:12.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "41017cdc-c364-4d05-a327-be47275dafd2",
+    "createdAt": "2026-02-12T17:12:36.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b500e1e8-8509-4eef-86f5-96c69a26f5b3",
+    "createdAt": "2026-02-12T17:20:01.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "eebb8181-1ce1-4f91-ad33-4b1d5543a6f3",
+    "createdAt": "2026-02-12T17:39:57.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c2cfba84-b060-4c83-b1d9-053c4155fc3d",
+    "createdAt": "2026-02-12T17:45:09.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b372c5f9-84e2-4439-af99-f695e53939bf",
+    "createdAt": "2026-02-12T18:05:45.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "64094df8-54f6-4bdf-9f7d-79f6605fa413",
+    "createdAt": "2026-02-12T18:21:07.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "939b1b24-1fd8-4b48-8bfe-fe4b2b970763",
+    "createdAt": "2026-02-12T18:52:28.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6b52cc9d-02f0-4880-be52-91e96ff11752",
+    "createdAt": "2026-02-12T20:13:24.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fe9c4fdd-da1f-4ad6-b638-78edadef5f01",
+    "createdAt": "2026-02-12T20:25:47.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ad1d1933-5cd3-49fe-9a48-50e89a331530",
+    "createdAt": "2026-02-13T06:06:14.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "61cf9ce4-1bc7-41c6-acea-44b19252bb96",
+    "createdAt": "2026-02-13T06:19:23.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "de40cb3f-0813-439f-b31e-cca597113c52",
+    "createdAt": "2026-02-13T07:15:43.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6f0cd546-95a0-4b0b-ae52-1f50e6b10bfd",
+    "createdAt": "2026-02-13T07:16:54.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2a9dd003-3d03-4a8f-b131-6c9e8d8424c9",
+    "createdAt": "2026-02-13T07:20:12.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ed24f530-cde2-4b5a-9718-2b4c77b31ba1",
+    "createdAt": "2026-02-13T08:14:33.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bf3aac73-1275-4636-881c-9bc6539fa311",
+    "createdAt": "2026-02-13T08:31:20.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1de2f82b-0be5-45fb-b08f-f421e6223f31",
+    "createdAt": "2026-02-13T08:42:49.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2d14e3cb-fda3-4dbc-95a1-53ca3d74bf5f",
+    "createdAt": "2026-02-13T08:44:18.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b643b29e-0b10-4e9c-9a6a-031de49565c6",
+    "createdAt": "2026-02-13T09:02:37.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "376bbfa9-7c2a-48f1-bb39-07c7768175e6",
+    "createdAt": "2026-02-13T09:43:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "a452a9cc-5f61-4cbd-94b2-ce201112394a",
+    "createdAt": "2026-02-13T09:50:03.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "463afbb8-dda3-455f-b8b5-037414c13862",
+    "createdAt": "2026-02-13T10:05:28.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "dbb59e07-4791-45c8-96b4-a06c3baea21e",
+    "createdAt": "2026-02-13T10:31:24.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7e054f5d-28be-4ddf-a100-597844c55557",
+    "createdAt": "2026-02-13T10:33:14.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "dc43d0c1-6f7e-441f-9ad2-d2f848f03ae3",
+    "createdAt": "2026-02-13T10:46:02.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "675fad43-f5dd-42c6-9439-9b9eb5569ff0",
+    "createdAt": "2026-02-13T10:49:23.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "3ec8dc4b-4267-410d-acfb-2a2f519f5d46",
+    "createdAt": "2026-02-13T11:06:16.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "34e9c558-f028-48c3-b6dc-8f08e1bc1e21",
+    "createdAt": "2026-02-13T11:06:21.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2e500b66-2617-4a97-8a70-f0df602bc674",
+    "createdAt": "2026-02-13T11:27:58.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c598556e-8509-441f-81f0-67d2936efe83",
+    "createdAt": "2026-02-13T11:29:22.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8c80509e-d8f6-4485-a6ac-3a503c5e53c8",
+    "createdAt": "2026-02-13T11:31:35.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "580f1d99-3cb7-48dd-aab0-f38b9ef6ee45",
+    "createdAt": "2026-02-13T11:49:29.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b4243d5c-928c-402c-8a13-650302765baf",
+    "createdAt": "2026-02-13T12:01:14.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "45f674e5-3793-450a-9991-ad97fbf6f5cc",
+    "createdAt": "2026-02-13T12:19:09.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7063627c-04e9-42f9-8104-4c192fba8c69",
+    "createdAt": "2026-02-13T12:24:44.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "596ce752-c8c8-477e-8acd-678873fd8341",
+    "createdAt": "2026-02-13T12:47:12.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6a93f380-f064-41dc-93ac-be456a0ea761",
+    "createdAt": "2026-02-13T12:55:57.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "93832b35-006b-452d-b3ea-e570a7eabb4b",
+    "createdAt": "2026-02-13T13:13:20.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ec07f103-6aa4-496a-8286-4c2fadc35694",
+    "createdAt": "2026-02-13T13:42:27.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d3bb1269-49da-4831-ae39-6555e28b18d7",
+    "createdAt": "2026-02-13T13:45:38.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b3de4e72-aaa8-4304-9670-133c9ce698c5",
+    "createdAt": "2026-02-13T13:58:49.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fb081c6c-ad46-42f5-868f-238bc049abd6",
+    "createdAt": "2026-02-13T14:20:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "f83cf3f5-d4cc-46d8-a90b-3448aae992d2",
+    "createdAt": "2026-02-13T14:42:12.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "db175b2b-12fc-445d-9fe6-6261d3f8ca8d",
+    "createdAt": "2026-02-13T15:11:11.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "192e79de-6b9e-4069-b796-0791d3008c1d",
+    "createdAt": "2026-02-13T15:28:18.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "dfe0bd88-2d27-4872-a74d-93681d93bcba",
+    "createdAt": "2026-02-13T15:46:05.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0e9b3047-b6c7-401e-a16e-f1ce8ae82faa",
+    "createdAt": "2026-02-13T15:54:45.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "18ac57c3-619c-4519-8afc-03873e4a75f3",
+    "createdAt": "2026-02-13T16:29:39.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2fa110d5-9a93-43d2-93e1-c91cbad63844",
+    "createdAt": "2026-02-13T16:43:50.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "595a6250-dedf-4dff-99c8-9e63de1db55f",
+    "createdAt": "2026-02-13T17:09:06.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b138084c-a89d-42fc-85cd-851c54061731",
+    "createdAt": "2026-02-13T17:13:45.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e97fc82b-47e0-4e82-b9e5-2f9ee8929e63",
+    "createdAt": "2026-02-13T17:37:11.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "8f96e175-1faa-43d0-9118-40a1255b8261",
+    "createdAt": "2026-02-13T17:58:35.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a5e24a89-84e9-4ad7-8c23-cb6f2511416e",
+    "createdAt": "2026-02-13T18:03:37.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "66247aa2-5cba-40b9-8a67-8be9b24bf1f3",
+    "createdAt": "2026-02-13T18:38:37.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "020e4519-27d1-4380-b300-d1a4b24461e0",
+    "createdAt": "2026-02-13T18:49:08.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "05902ee1-9730-40df-82fb-197a7da2e544",
+    "createdAt": "2026-02-13T18:56:20.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "35fea74a-7124-451b-b68e-3d02fd7020b5",
+    "createdAt": "2026-02-13T19:13:04.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "76f5aea0-86c9-438e-9b21-1824d9459f6f",
+    "createdAt": "2026-02-13T19:24:39.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "3bf1e5f0-005e-4194-bccb-9275cb3faf40",
+    "createdAt": "2026-02-13T20:38:49.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4fcb2e03-3167-4226-b9ca-cf4bc342ad5e",
+    "createdAt": "2026-02-13T20:41:44.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bee7f4a5-b372-44c2-b657-3990b970c7e1",
+    "createdAt": "2026-02-14T06:10:54.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5fe851e4-6347-42af-b1c9-541ec23eeeb2",
+    "createdAt": "2026-02-14T06:25:42.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a951a079-f204-438e-acfb-cd7f5fbfcac5",
+    "createdAt": "2026-02-14T06:51:21.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "418a9c27-526f-4e4a-af95-381153fbd5a5",
+    "createdAt": "2026-02-14T07:37:01.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d84c2261-d64c-4cdd-a8bb-d4fdb9d7743f",
+    "createdAt": "2026-02-14T08:08:15.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "80a39b45-75fa-430c-a766-72d7723f93be",
+    "createdAt": "2026-02-14T08:10:02.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "aa4bbc55-2e19-4b30-8eb9-fc053ab21834",
+    "createdAt": "2026-02-14T08:11:02.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "471c0a6f-ea7e-46ce-80e4-07f5681ec0b8",
+    "createdAt": "2026-02-14T08:23:11.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ec8a4039-89b2-41f1-92b1-68d58d992024",
+    "createdAt": "2026-02-14T08:41:21.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "24c83d02-9ab0-4591-855f-b9eb96faa632",
+    "createdAt": "2026-02-14T09:29:49.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ad618f13-c2c1-43bf-9459-8c658b3eb3cb",
+    "createdAt": "2026-02-14T10:01:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2b1822be-b6a0-4f90-9768-1ab2875fd88a",
+    "createdAt": "2026-02-14T10:40:54.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8d9a0fe6-d611-4149-997c-8554491039c1",
+    "createdAt": "2026-02-14T10:45:08.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "897aee6e-081a-41cf-99ef-021485df6d2c",
+    "createdAt": "2026-02-14T11:05:38.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "800f7635-0245-415c-9960-b497e3e19937",
+    "createdAt": "2026-02-14T11:27:09.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fe7d904e-bd37-4426-a642-8f70ee4274e0",
+    "createdAt": "2026-02-14T11:41:03.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1a89f358-584f-43b9-87d1-d015c19e5886",
+    "createdAt": "2026-02-14T11:54:53.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fe475fc9-3c74-4500-849f-39f8d43623c4",
+    "createdAt": "2026-02-14T12:01:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6bd97876-3ccc-4594-8148-f5a97e5d12f9",
+    "createdAt": "2026-02-14T12:04:04.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fc9c197e-27eb-470f-aa9d-176fb6f82d12",
+    "createdAt": "2026-02-14T12:08:17.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9824c476-96d4-45e0-9313-c316c23dbdb8",
+    "createdAt": "2026-02-14T12:11:30.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e03c0332-ca13-45e9-9a8f-4baaec805e70",
+    "createdAt": "2026-02-14T12:34:32.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2fc9a354-5f6e-4533-b5e0-407a0aed7d08",
+    "createdAt": "2026-02-14T13:38:43.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cd0227e3-b65f-40c3-bf28-cdce55066f78",
+    "createdAt": "2026-02-14T13:50:02.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8e4bfe68-8032-4270-87de-d489775c4aef",
+    "createdAt": "2026-02-14T14:08:41.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6dedb7bc-03fa-48b6-bf1d-64b0220bd512",
+    "createdAt": "2026-02-14T14:30:40.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c2796c01-f51c-4021-a794-31a1c15e163c",
+    "createdAt": "2026-02-14T15:01:21.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "b1b42f75-f87f-4008-bbe1-24af417d4c39",
+    "createdAt": "2026-02-14T15:33:54.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a3c258c6-0269-4e81-ad7f-15399c562b7c",
+    "createdAt": "2026-02-14T16:48:33.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6c948558-eeb0-4270-8054-7bdf12ece2ef",
+    "createdAt": "2026-02-14T16:56:11.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a8350585-3961-4cbd-8b15-c702410f9a80",
+    "createdAt": "2026-02-14T17:03:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "05226376-ad5f-478e-8c49-39ef19ab2c97",
+    "createdAt": "2026-02-14T17:09:49.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "68c5eea7-bc60-4140-8757-cf53cd7ddf68",
+    "createdAt": "2026-02-14T17:10:28.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "65c7f8a7-2dda-44b9-a073-f39e59e061ae",
+    "createdAt": "2026-02-14T17:27:25.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6258d415-b426-4310-980d-f686131575a3",
+    "createdAt": "2026-02-14T17:28:33.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "1b8b356e-dd61-409d-9edf-ead9d6687f93",
+    "createdAt": "2026-02-14T17:29:09.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8759d91d-b124-4c26-8afc-aa624e7079ac",
+    "createdAt": "2026-02-14T17:43:25.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "244b50bd-6b03-4672-bfd7-9e8447ca505e",
+    "createdAt": "2026-02-14T17:48:42.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ceda5aff-0f54-4547-b780-5954a476542a",
+    "createdAt": "2026-02-14T18:02:52.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "78086c9d-8acc-454e-b0b1-43b8538eae8f",
+    "createdAt": "2026-02-14T18:26:10.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2682f287-bb85-4da5-9603-8c5bf3fc5cd2",
+    "createdAt": "2026-02-14T18:44:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "a05d94d9-a93c-4809-acb0-17dc809230b0",
+    "createdAt": "2026-02-14T19:16:44.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5170cc7e-a514-424d-88ab-145b9e9d6029",
+    "createdAt": "2026-02-14T19:30:52.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "e0698b9f-4323-42e8-b432-e8ede3c0d52c",
+    "createdAt": "2026-02-14T19:44:21.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "213722bd-bf99-454e-909b-34230bd9b961",
+    "createdAt": "2026-02-14T20:27:21.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f659d026-5855-4e51-b1b6-22e171cbd0f8",
+    "createdAt": "2026-02-14T20:42:07.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "779e1713-bf07-4e98-ac37-6bed1bf2a530",
+    "createdAt": "2026-02-14T20:54:33.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2d558ca6-643d-4274-83f6-a2fab452b707",
+    "createdAt": "2026-02-15T06:19:18.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "336307bd-31ae-4fac-8d3f-233e61cbdbde",
+    "createdAt": "2026-02-15T06:57:37.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "af94b114-eb6b-4c9a-8262-1f7b3586cb11",
+    "createdAt": "2026-02-15T06:58:21.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e65291d8-3888-4441-baa0-bd95c96b149b",
+    "createdAt": "2026-02-15T07:57:17.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9fdb7d2c-aef7-4c43-b145-49545dfdc022",
+    "createdAt": "2026-02-15T08:33:56.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "451c46bd-024d-4aa9-9667-e467153763f0",
+    "createdAt": "2026-02-15T08:38:02.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7451e24c-1253-4567-8661-d856b1dcc83b",
+    "createdAt": "2026-02-15T08:57:34.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4710780c-0656-4bd2-9bf6-5b4dd638044d",
+    "createdAt": "2026-02-15T09:10:43.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f57e84bf-aee6-45d5-9477-4654ebd17f8d",
+    "createdAt": "2026-02-15T09:29:30.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a4b2bac1-4383-404a-9250-85e8705237bd",
+    "createdAt": "2026-02-15T10:02:40.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0d363804-c1dd-4a38-ba1f-a47b09a6a459",
+    "createdAt": "2026-02-15T10:06:46.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "aec25531-c76b-4e3c-b846-5fc233e08b10",
+    "createdAt": "2026-02-15T10:20:36.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3ab182e2-6bb0-460d-85cc-99180e301879",
+    "createdAt": "2026-02-15T10:25:18.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "eac6bd38-17b2-4787-8cc9-b37ca179c162",
+    "createdAt": "2026-02-15T10:31:27.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9260eac8-1ebf-4f49-9584-ea49f46e904d",
+    "createdAt": "2026-02-15T10:44:46.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2acdb584-4a3e-47e5-8119-1e7e19bb2dc6",
+    "createdAt": "2026-02-15T10:49:58.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "42b43cfc-057c-4f2e-8da3-e8515e778b9c",
+    "createdAt": "2026-02-15T11:34:38.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "ba0d2da6-a7b9-43fd-9aef-57d50dbc8e31",
+    "createdAt": "2026-02-15T12:22:54.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "25378eaa-a576-422b-af98-954e89110b13",
+    "createdAt": "2026-02-15T12:26:51.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8418fdb4-8fb8-4b9a-ac43-364d2976d013",
+    "createdAt": "2026-02-15T12:30:40.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "81d25cb6-8609-4407-8647-f6fc87f7e50c",
+    "createdAt": "2026-02-15T12:39:18.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0a7ba074-c470-460d-bedf-5fc7d124b53b",
+    "createdAt": "2026-02-15T12:46:36.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "973961b7-77cb-4b89-9c2d-43b7b4613b8b",
+    "createdAt": "2026-02-15T12:51:01.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "eabf2a48-efae-4107-bad9-0946ea48d013",
+    "createdAt": "2026-02-15T13:32:59.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6f053956-09fe-4531-86df-be25645dcc69",
+    "createdAt": "2026-02-15T13:35:37.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fe976f12-78b9-4b90-962f-ece139e690de",
+    "createdAt": "2026-02-15T13:36:39.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d18ecbc9-88c3-4833-87ed-79cc66c7b5bd",
+    "createdAt": "2026-02-15T14:10:39.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c9f96ca6-00f9-45e1-86c0-b079315cfe74",
+    "createdAt": "2026-02-15T14:21:20.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "05d86f06-c213-4da4-a0a4-111da3bcb2d2",
+    "createdAt": "2026-02-15T14:39:29.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d33db6da-3e12-475b-a57c-dd72dc9af7e8",
+    "createdAt": "2026-02-15T14:50:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "1b3c7b08-2dd1-432d-a627-d01eee68ee6a",
+    "createdAt": "2026-02-15T15:19:16.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a0d0e015-0e3b-4529-9b1e-1484baddd069",
+    "createdAt": "2026-02-15T15:31:02.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "5a02709f-20b4-4133-a5d1-6843ab6b7b80",
+    "createdAt": "2026-02-15T15:43:16.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f862b3f9-8f8b-460e-ade4-2bb873238e79",
+    "createdAt": "2026-02-15T16:02:50.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "665e1971-8b5a-483f-b166-4ab9aef1048e",
+    "createdAt": "2026-02-15T16:05:15.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1d6c442b-e4ae-40b1-a77b-19b3eb293786",
+    "createdAt": "2026-02-15T16:44:35.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2721ba81-a863-40a2-979a-28bf968e2ce0",
+    "createdAt": "2026-02-15T17:16:48.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0b503eb8-079a-4544-a6a0-0658b59f78f4",
+    "createdAt": "2026-02-15T17:28:33.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a1feac4b-5165-430b-a3df-856110d6a9f6",
+    "createdAt": "2026-02-15T17:48:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "ffca6fc8-0d8f-436a-b307-226d21f5999a",
+    "createdAt": "2026-02-15T18:10:02.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4356c19b-589f-42c7-bb54-748a03d7bcb8",
+    "createdAt": "2026-02-15T18:56:44.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0e8aff16-be1a-4cfb-a9e5-58527769c872",
+    "createdAt": "2026-02-15T19:29:48.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d0a763f7-d6c0-41f9-a2be-76ca2757ba47",
+    "createdAt": "2026-02-15T20:08:12.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "b8c3959c-2f3e-4ee7-8fa8-6959dcec8bc7",
+    "createdAt": "2026-02-16T06:24:18.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "927cf5e1-aef7-40a7-b433-eef07782be8a",
+    "createdAt": "2026-02-16T07:04:51.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "654f81f1-efd8-4d5e-8118-f1fd72dcf222",
+    "createdAt": "2026-02-16T07:15:51.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "50324eae-877f-4aca-aee1-e8364c781fe9",
+    "createdAt": "2026-02-16T07:17:40.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "092b98f2-4db0-4103-96de-bdedaa2c3b5b",
+    "createdAt": "2026-02-16T07:27:58.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "8a95e72d-eb30-4eff-8e72-96fc173aceeb",
+    "createdAt": "2026-02-16T07:35:47.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3164bf9e-be8c-4baa-aed0-f665b20a158f",
+    "createdAt": "2026-02-16T07:47:39.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e03c635a-c214-45f0-9a3d-fdb30b397884",
+    "createdAt": "2026-02-16T07:52:49.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ff94fda8-8958-4c39-831f-dea92f13a5ee",
+    "createdAt": "2026-02-16T07:53:36.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "40c046a3-93f6-46d9-90b9-628c95498fc7",
+    "createdAt": "2026-02-16T07:54:03.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "d5bf16a5-a7dd-4880-a945-6ba22bb27168",
+    "createdAt": "2026-02-16T08:27:19.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a3c7b2b1-ae42-473f-89f4-30344878dfc8",
+    "createdAt": "2026-02-16T08:38:57.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0a0ce292-cd23-45e1-bf7b-2353be63f14e",
+    "createdAt": "2026-02-16T08:48:55.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b85cfdaf-e5fa-4135-969b-17c95d07af92",
+    "createdAt": "2026-02-16T09:02:26.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e6a81175-f97d-4cb3-b88a-2c042b3cb1f6",
+    "createdAt": "2026-02-16T09:09:07.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b144a8f3-1d0a-4ab3-b76f-1fdfd64e6f28",
+    "createdAt": "2026-02-16T09:20:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "c5dd6e28-048d-45a0-a55d-a7f67159492e",
+    "createdAt": "2026-02-16T09:44:44.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7265a7c8-4e0c-4cf8-afa9-b1d4735666be",
+    "createdAt": "2026-02-16T10:14:41.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "08241ad9-8426-4f72-9333-8e36b34c0002",
+    "createdAt": "2026-02-16T10:41:41.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8009d9c9-60e6-46bf-b117-33c8609af97b",
+    "createdAt": "2026-02-16T10:51:34.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c137b4a3-d9c7-47d5-b692-2d95c0a3e60b",
+    "createdAt": "2026-02-16T10:54:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "5e87d1dc-97de-4556-a6fb-2733de554390",
+    "createdAt": "2026-02-16T11:09:52.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "47fa2bc1-d4cb-4ab2-8c6e-6b0008bd1c14",
+    "createdAt": "2026-02-16T11:16:00.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ffe71758-632e-4c34-8cf6-25350fd7141e",
+    "createdAt": "2026-02-16T11:17:45.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "25aba685-b036-46f8-996a-f7c14cab47b0",
+    "createdAt": "2026-02-16T11:25:08.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "de0f99a2-d2ef-4a22-8465-2e4c6512c74a",
+    "createdAt": "2026-02-16T11:27:03.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "f33b9581-756d-4895-86e5-9856d0d929c6",
+    "createdAt": "2026-02-16T12:04:54.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2c6aaa9d-4c9a-46c0-8c85-58c2279f364b",
+    "createdAt": "2026-02-16T12:14:26.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "e7e09efc-cfed-474e-a869-5cc44ada23b5",
+    "createdAt": "2026-02-16T12:55:08.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "21f6f8cb-b12f-4552-bd65-eafae0c805e1",
+    "createdAt": "2026-02-16T13:00:10.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "852ba6f7-09ac-4e74-a430-3f174f131b87",
+    "createdAt": "2026-02-16T13:02:26.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e56f1cb1-2ba6-453f-8f7c-3c03bcd7c020",
+    "createdAt": "2026-02-16T13:23:36.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f8964ed4-edd3-4600-8fb9-c232b67e5fe2",
+    "createdAt": "2026-02-16T13:24:13.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "160e108d-42b5-4d78-9f3d-defad39b69db",
+    "createdAt": "2026-02-16T13:33:28.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c30fc53d-44fc-47c2-886c-9c2561016fd7",
+    "createdAt": "2026-02-16T13:40:27.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8afccc1c-2ad1-48c6-8413-e0b954b33475",
+    "createdAt": "2026-02-16T13:46:26.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c26ac5a9-99f6-467b-8fe9-0a4370c07b7e",
+    "createdAt": "2026-02-16T13:53:23.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "eb6c04e8-74d4-4dca-96a1-88cb690697cb",
+    "createdAt": "2026-02-16T13:56:23.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "b7623d31-0d9e-4ec2-975b-d144eb471112",
+    "createdAt": "2026-02-16T14:14:37.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8e6a7c13-ab60-4556-8f1e-d33404624c2b",
+    "createdAt": "2026-02-16T14:42:29.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8ea7257d-c286-4b8a-925d-c99591ebf95f",
+    "createdAt": "2026-02-16T14:46:15.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "01198a15-c810-482e-9c3a-2f5859bad142",
+    "createdAt": "2026-02-16T14:58:10.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8a1def1a-7472-4d2a-857b-01df4fce9c3b",
+    "createdAt": "2026-02-16T15:14:23.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5bf51cfa-853a-41c0-8f03-2588c243c1cb",
+    "createdAt": "2026-02-16T15:25:57.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f6eaa5b3-e3c1-4521-8f83-8f124d0c0765",
+    "createdAt": "2026-02-16T15:30:00.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b2ea6811-ff0f-4fd3-ab73-935bf53e7065",
+    "createdAt": "2026-02-16T16:39:05.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ae269c92-686e-43b9-8924-476fd397d410",
+    "createdAt": "2026-02-16T16:54:07.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3d6d7c34-ad2d-42fa-9be5-e514a86310f1",
+    "createdAt": "2026-02-16T17:35:17.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "914a6a15-2b60-417b-b75a-b7a50da63bd0",
+    "createdAt": "2026-02-16T17:42:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "39db4c0b-33fc-4f6a-b4dc-388515c92269",
+    "createdAt": "2026-02-16T17:55:36.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6027ba19-38fc-458f-83a8-9d4ef2a467e1",
+    "createdAt": "2026-02-16T17:57:18.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "62fb3e55-1446-4b2b-ac94-caaa273e12bd",
+    "createdAt": "2026-02-16T17:58:30.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b52967a9-fb69-454b-8c73-6ff5f157ceba",
+    "createdAt": "2026-02-16T18:06:54.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4218a58b-d2a5-4a76-8094-a17f98f123ce",
+    "createdAt": "2026-02-16T18:11:29.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "80d6443f-ef37-4889-90b6-1b614258312b",
+    "createdAt": "2026-02-16T18:29:52.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a409e34e-d7e1-4a16-bc1b-d461c9e6ee91",
+    "createdAt": "2026-02-16T18:31:53.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e90a0b84-92c5-4468-86a5-3d607a72beec",
+    "createdAt": "2026-02-16T18:33:52.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "63fbe1e4-f90e-41c0-9bce-fda0f9103699",
+    "createdAt": "2026-02-16T18:40:40.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "68b8e067-67e9-4979-9978-abcfbf85d6a0",
+    "createdAt": "2026-02-16T19:08:51.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a2f8b6cb-6b59-4872-b4ca-125bda92dddb",
+    "createdAt": "2026-02-16T19:20:33.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bb39022a-b466-484f-8135-ba345f9f99d1",
+    "createdAt": "2026-02-16T19:30:51.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "c4593f87-dc7c-4aa9-8988-082501eb0987",
+    "createdAt": "2026-02-16T19:37:19.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4c95aaa6-d4bf-4278-8377-e6c5ab9351f3",
+    "createdAt": "2026-02-16T19:39:34.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e0abd9da-9715-4aca-ac5f-a03b79b39df3",
+    "createdAt": "2026-02-16T19:51:12.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e6463ace-3e72-42a1-ae43-9afedb0bf86f",
+    "createdAt": "2026-02-16T19:57:53.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e045ecab-a9f8-4ee3-be67-c93b36ac2444",
+    "createdAt": "2026-02-16T20:05:42.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a4487d7a-1862-4ddf-8aea-814bdac51d2e",
+    "createdAt": "2026-02-16T20:11:51.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ba123d0f-c409-4f2f-a70a-3941d75e3c8b",
+    "createdAt": "2026-02-16T20:45:57.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "689e3efd-3f93-4ef2-9746-81aba09f52f9",
+    "createdAt": "2026-02-16T20:46:11.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "13f29f43-31c3-4fb3-bdbf-b21da072aabb",
+    "createdAt": "2026-02-16T20:48:12.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e24e4ac8-8ae0-4946-ad22-04057a76df0a",
+    "createdAt": "2026-02-16T20:51:46.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e9597ea7-3655-451a-a5fa-dd1f36e0eaa5",
+    "createdAt": "2026-02-17T06:05:35.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fb2416c1-55a4-42b1-b76f-a45c4cfac7d5",
+    "createdAt": "2026-02-17T07:52:59.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "405f3fb1-2e77-4cec-ad52-278d38f9f7f0",
+    "createdAt": "2026-02-17T08:04:49.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "731ba6ff-145b-4fd9-a6ef-cd93190e88fa",
+    "createdAt": "2026-02-17T08:05:43.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "85dbfe07-3ab8-4cce-94ec-e367b84e532c",
+    "createdAt": "2026-02-17T08:08:22.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "340e0ada-3964-4f06-a98c-b24e7d02db02",
+    "createdAt": "2026-02-17T08:17:49.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2fed540b-528c-41af-98c4-b629cf4bd649",
+    "createdAt": "2026-02-17T08:34:04.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1e15ae10-bd94-410d-bbf5-eefbd154c000",
+    "createdAt": "2026-02-17T08:37:31.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "585637b3-8772-4a27-a915-f5c9988041ab",
+    "createdAt": "2026-02-17T08:39:50.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "508e0884-ad0a-42da-a736-f5f38b6ca6a4",
+    "createdAt": "2026-02-17T08:53:36.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4a4e50ec-e93b-4651-91ac-54b11d4369cf",
+    "createdAt": "2026-02-17T09:11:53.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f41d66d4-dd8a-46de-ba0f-e18f05423dbe",
+    "createdAt": "2026-02-17T09:17:13.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "65d7b34f-b5f1-4d82-a8f5-0eef1b6f84d1",
+    "createdAt": "2026-02-17T09:22:06.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e17fa48a-6859-4c0b-bcb2-d37f19131986",
+    "createdAt": "2026-02-17T10:08:44.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2807cfa7-0f92-4db1-ad2d-be37c8004b91",
+    "createdAt": "2026-02-17T10:14:09.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ecf557ee-1848-4904-b0e5-90516cbb7617",
+    "createdAt": "2026-02-17T10:14:29.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2353735e-6a5f-47d1-bdc7-3b6cf5509023",
+    "createdAt": "2026-02-17T10:45:33.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cd781e35-d55d-4c9e-868f-492dbfe80131",
+    "createdAt": "2026-02-17T11:01:24.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "983578b6-8088-4098-b536-b5e4fed539f3",
+    "createdAt": "2026-02-17T11:13:50.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "27e5846c-69c9-4f2a-87d4-deb8f67f444c",
+    "createdAt": "2026-02-17T11:50:06.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "58ed1aa5-7df7-49a2-bff8-79886ea7bd19",
+    "createdAt": "2026-02-17T12:03:58.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ae322b3f-9912-4b48-be5d-62506fe9f980",
+    "createdAt": "2026-02-17T12:05:08.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "de75fc4a-1ac5-422e-8b97-a831a58fd109",
+    "createdAt": "2026-02-17T12:13:44.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3c489a84-4baa-468b-bd26-350764cfa6b7",
+    "createdAt": "2026-02-17T12:20:17.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c87dd8d4-fc73-4ddf-91e8-4dc3a2af95be",
+    "createdAt": "2026-02-17T12:23:26.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6ae79698-16ae-4b99-b564-5825c1909f90",
+    "createdAt": "2026-02-17T13:06:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6cc51eb0-23cc-4574-b1c2-ea7df9409fa5",
+    "createdAt": "2026-02-17T13:21:06.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fa039cbc-b74d-4749-8483-390f3ac8e759",
+    "createdAt": "2026-02-17T13:34:59.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "61120196-13e0-4f72-96de-5972fcdf5af7",
+    "createdAt": "2026-02-17T13:45:37.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f69ca031-4f54-40aa-a263-72e825915583",
+    "createdAt": "2026-02-17T14:36:17.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "97ed1a6b-b18d-4e4f-b99a-fb491d39604f",
+    "createdAt": "2026-02-17T15:13:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "02ec4b04-5fb3-4fb8-8d4d-3fd978580735",
+    "createdAt": "2026-02-17T15:25:02.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "135fb200-cd60-48d5-99c2-290e10e048f5",
+    "createdAt": "2026-02-17T15:44:55.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4373b113-859f-47f9-9d36-701b100ea56c",
+    "createdAt": "2026-02-17T15:58:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "1554bd26-6541-4c5a-97c5-4cc3190e7106",
+    "createdAt": "2026-02-17T15:59:09.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "151e95b3-8240-4c17-a13c-d12be3b576ca",
+    "createdAt": "2026-02-17T16:05:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "70fcdc38-16a2-4a01-82d4-a337d80ac991",
+    "createdAt": "2026-02-17T16:09:28.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "98e1ded1-5a91-4f5d-b136-e6bcd3200487",
+    "createdAt": "2026-02-17T16:25:11.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d12e9caf-c8c9-4401-8f71-0e07ec87062e",
+    "createdAt": "2026-02-17T16:41:56.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "6b16b4ad-ccca-4c2e-af12-d22f958472cd",
+    "createdAt": "2026-02-17T17:05:56.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a6a10f05-7243-430a-ad63-6fb29a499637",
+    "createdAt": "2026-02-17T17:11:51.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "46cb3022-29dd-4047-9b08-1b2bf3e4d986",
+    "createdAt": "2026-02-17T17:18:25.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c9eba0dd-0bd1-48a1-8456-7fb0f10ae18b",
+    "createdAt": "2026-02-17T17:34:23.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3e5238d0-fb86-44d5-8865-f9633a3498c2",
+    "createdAt": "2026-02-17T17:36:11.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "92e7e3c1-ac23-4bef-9c81-fe812288336c",
+    "createdAt": "2026-02-17T17:58:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "bae8ae4e-5512-4924-9b91-9544e633df60",
+    "createdAt": "2026-02-17T18:11:59.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "21df88a6-b074-4a3d-b730-930b626749e5",
+    "createdAt": "2026-02-17T18:29:42.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3c72d9ed-18dc-49e7-92ff-fb6a79a0212c",
+    "createdAt": "2026-02-17T18:51:41.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2f156fd4-b5b9-4b63-8666-4d3ae827dee4",
+    "createdAt": "2026-02-17T18:54:39.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b9eb27cb-5a47-4197-b283-2656d8cd8ebc",
+    "createdAt": "2026-02-17T19:11:30.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "bd9b30dc-bf29-4db0-b487-bde56ef3a6d3",
+    "createdAt": "2026-02-17T19:18:35.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6f83951a-c77f-4948-a8d7-97f90647bbf0",
+    "createdAt": "2026-02-17T19:49:55.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "522439b9-8c4b-4fd4-8c78-bca7ce5cb144",
+    "createdAt": "2026-02-17T19:52:34.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cb9bbd50-048d-4812-9c2a-c2a8386e59ef",
+    "createdAt": "2026-02-17T19:55:56.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f702ba42-9862-48c1-ab8f-71d57da0a9d6",
+    "createdAt": "2026-02-17T20:09:17.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "14f7d9db-f545-4409-a6ed-83b53c97dd2e",
+    "createdAt": "2026-02-17T20:20:54.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "52a22ec2-70a3-4070-9d19-6c4bd336ba94",
+    "createdAt": "2026-02-18T06:00:19.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3cf7605c-424f-4d8f-9ce7-a338d1e45d8d",
+    "createdAt": "2026-02-18T06:02:27.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c141c8b3-30ee-4fdd-8cd8-2377f03fb92b",
+    "createdAt": "2026-02-18T06:13:28.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ecb61dcf-7ca4-4aac-8b88-43856b8636a5",
+    "createdAt": "2026-02-18T06:53:42.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7db524b4-3a59-4c77-85fd-96d502ec95f3",
+    "createdAt": "2026-02-18T07:15:06.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c59f7a06-2131-4034-b309-52ea26a45870",
+    "createdAt": "2026-02-18T07:34:51.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c5d55f4f-0b81-4bd6-8cbb-a8625dc7004c",
+    "createdAt": "2026-02-18T07:36:16.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6bcae64e-a80a-43a7-8b04-0b08a55af2f7",
+    "createdAt": "2026-02-18T08:03:55.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d55bb43b-cb37-4a3c-8d5b-cc55514eeb37",
+    "createdAt": "2026-02-18T08:18:10.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5448a41d-7af6-47bb-9ad8-3e9fdc7b8a80",
+    "createdAt": "2026-02-18T08:42:17.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "248a542c-760d-4dfc-b7d9-7c0d88e6693b",
+    "createdAt": "2026-02-18T08:49:18.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "209fe89b-278e-4841-9b68-c9f9996e7831",
+    "createdAt": "2026-02-18T08:51:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "73ddeb8f-b2de-4852-9afe-3425b121d6f1",
+    "createdAt": "2026-02-18T09:04:17.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "27431eda-a622-477e-b1c7-afa2a360804e",
+    "createdAt": "2026-02-18T09:04:33.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "5b66b075-bccb-4b4c-9475-ae8c1ddea32d",
+    "createdAt": "2026-02-18T09:28:39.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2dc107df-94f8-4736-b9b0-91c3876c211c",
+    "createdAt": "2026-02-18T09:30:30.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "87e7249a-4bbf-4196-ae1a-bd14232d77b0",
+    "createdAt": "2026-02-18T09:31:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "d13c342c-980e-4a71-a993-a43c9c05f7e6",
+    "createdAt": "2026-02-18T10:31:10.889Z",
+    "type": "page_view",
+    "page": "/gros-oeuvre",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "896594a4-bc15-4345-86ba-714a7dde0fcd",
+    "createdAt": "2026-02-18T10:43:33.889Z",
+    "type": "page_view",
+    "page": "/blog/prix-maconnerie-2026",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "f00dc400-433f-4e28-a399-00bc3aae429f",
+    "createdAt": "2026-02-18T10:50:22.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "170861cf-2567-4e85-9f12-0ef6c0eee62b",
+    "createdAt": "2026-02-18T10:51:25.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "dcc71a50-824c-4b85-8fc1-6f39a2fa3b4b",
+    "createdAt": "2026-02-18T11:11:55.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6ad32518-0a91-4c87-ab75-98123f25fbb2",
+    "createdAt": "2026-02-18T12:11:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "93d68c1c-b5b0-40f7-8d09-cd91ddb12e31",
+    "createdAt": "2026-02-18T12:25:55.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "dcd3d74e-e763-4842-ad20-6e9fe05c6926",
+    "createdAt": "2026-02-18T14:01:46.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5454e076-fe5f-4a51-a1d4-68623370d814",
+    "createdAt": "2026-02-18T14:09:21.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2265d345-472a-4efa-b6fa-0f50a9066326",
+    "createdAt": "2026-02-18T14:12:25.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "d7604caa-f1c6-4936-979b-a259aab659df",
+    "createdAt": "2026-02-18T14:52:43.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e64c7250-01c2-49ac-9cf3-ad2dbc65bec0",
+    "createdAt": "2026-02-18T15:11:04.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "532f3f1d-d8aa-401f-876f-985c74aa239d",
+    "createdAt": "2026-02-18T15:30:13.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d6d97fdd-aa7a-4ea3-b099-6f77af97dfb5",
+    "createdAt": "2026-02-18T15:40:55.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ff8804ab-04b6-4e81-9e03-0b58ed2ec447",
+    "createdAt": "2026-02-18T16:02:19.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "18b1f46a-7b12-47e6-8fde-c03ff4a7f57c",
+    "createdAt": "2026-02-18T16:10:36.889Z",
+    "type": "page_view",
+    "page": "/a-propos",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fd05a752-51e6-4dbd-9aeb-50b7ac5a3fc2",
+    "createdAt": "2026-02-18T16:19:07.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "df62c90c-adcd-4d09-95b5-76eea25d0750",
+    "createdAt": "2026-02-18T16:23:04.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "959578b0-a405-4785-b805-80c2271e675f",
+    "createdAt": "2026-02-18T16:24:13.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4982f23e-87cf-4e97-916e-b78357f19251",
+    "createdAt": "2026-02-18T16:46:54.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0fcdda8f-a59e-472e-90f1-bd5aabc6999d",
+    "createdAt": "2026-02-18T16:53:17.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "08b0429b-f8cd-4e61-ad0a-41967c66fe48",
+    "createdAt": "2026-02-18T17:04:16.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "edeae2b3-9866-44c7-b52a-02105fe7e0fb",
+    "createdAt": "2026-02-18T17:48:04.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "490be8d0-d285-4c5e-9fc4-d60daec37c3a",
+    "createdAt": "2026-02-18T17:58:02.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "42aa8b4b-44b6-47d3-808d-f6b06d028cb9",
+    "createdAt": "2026-02-18T18:09:21.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b8d5f3ea-653f-4f70-a6d6-5f065f382c66",
+    "createdAt": "2026-02-18T18:54:28.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3fed0ef6-486c-4f0e-aa31-e4d3dabf7ee6",
+    "createdAt": "2026-02-18T19:09:28.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "ad61d0a7-20cc-43e3-a55f-331c1641da59",
+    "createdAt": "2026-02-18T19:14:01.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "0efc4c93-fede-4106-ba8f-4a0608ab514b",
+    "createdAt": "2026-02-18T19:28:29.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8a725b29-e1d0-4a09-922c-90fd99a64037",
+    "createdAt": "2026-02-18T19:40:31.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "22ea360f-4774-4ad1-bb1e-48c9fd44ae04",
+    "createdAt": "2026-02-18T20:06:16.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7c675875-d80d-4843-8845-5550e6d925c5",
+    "createdAt": "2026-02-18T20:15:47.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "62b1a73c-1d79-4871-951e-70b130a47d37",
+    "createdAt": "2026-02-18T20:17:18.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b2162a1f-3be6-43e5-8301-ba4024f5b107",
+    "createdAt": "2026-02-18T20:46:04.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "67cb6efd-17e7-4d89-bcf0-ed9a547347f2",
+    "createdAt": "2026-02-19T06:04:27.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "945b226e-2c49-4979-b710-9231b2fa6bda",
+    "createdAt": "2026-02-19T06:07:25.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a3e2a877-7cbb-4b33-83ac-75096b622c90",
+    "createdAt": "2026-02-19T06:40:44.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e43d456a-7b78-4657-9249-867f0b46b485",
+    "createdAt": "2026-02-19T06:49:12.889Z",
+    "type": "page_view",
+    "page": "/blog/choisir-son-macon",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "8d18045a-97a7-45e8-a840-40787eed0589",
+    "createdAt": "2026-02-19T06:53:51.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7d7af408-5849-47c2-9720-81c92c82ed15",
+    "createdAt": "2026-02-19T07:29:11.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "44818711-33ac-47e8-af5a-192d075c2066",
+    "createdAt": "2026-02-19T07:36:06.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "737569ab-c398-4837-b306-9e4a0838a2e1",
+    "createdAt": "2026-02-19T09:31:35.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "db1c0c10-5e28-4318-b866-d5d788c1ccd6",
+    "createdAt": "2026-02-19T09:34:39.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "224a46bc-283d-4d02-b828-92cd379bdadf",
+    "createdAt": "2026-02-19T09:40:12.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "be30cc7b-176b-4d40-89ba-acf7be5287ff",
+    "createdAt": "2026-02-19T10:35:40.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2acb6c9a-75d0-476a-9523-35b913a87851",
+    "createdAt": "2026-02-19T11:07:31.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "fbaf0c30-5862-4c3c-94cf-f448b938b507",
+    "createdAt": "2026-02-19T11:08:10.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c61d4fc0-cc83-4b50-b236-2cb97491f75b",
+    "createdAt": "2026-02-19T11:23:39.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9ee4a958-0625-4ea2-bba9-4cfb0506396a",
+    "createdAt": "2026-02-19T11:44:55.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "d31ef51f-713b-4593-a950-c404792e4e95",
+    "createdAt": "2026-02-19T11:52:52.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "079314eb-4eec-40f8-a6ea-435aef322162",
+    "createdAt": "2026-02-19T11:58:46.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "c0e9b096-1d79-46a3-b092-1804ef391cbb",
+    "createdAt": "2026-02-19T12:04:13.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "e07feb5b-0549-4f50-9df6-0ba957c02520",
+    "createdAt": "2026-02-19T13:06:22.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "5a1bf2eb-456d-434b-9c2c-81d0e3dd400c",
+    "createdAt": "2026-02-19T13:09:35.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "7f316047-7e9a-47e3-b4d5-d646dfa946f9",
+    "createdAt": "2026-02-19T13:17:04.889Z",
+    "type": "page_view",
+    "page": "/renovation-maconnerie",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2b991ae3-0495-4484-a6fd-e5997e77d74f",
+    "createdAt": "2026-02-19T14:08:55.889Z",
+    "type": "page_view",
+    "page": "/avis-clients",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "adb7eeda-72bf-49d6-b81a-fac3b8f6537c",
+    "createdAt": "2026-02-19T14:23:27.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "hero-appel",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "7f307701-e3ee-4269-9ea9-8e52a7cb6895",
+    "createdAt": "2026-02-19T14:32:01.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "033bf8f6-ce98-432c-a249-7f4ba7596ef2",
+    "createdAt": "2026-02-19T14:36:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "0101bbac-58ea-419d-81e2-01b6e6b85764",
+    "createdAt": "2026-02-19T15:28:33.889Z",
+    "type": "page_view",
+    "page": "/blog",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "3c79b987-d70c-4502-8fe1-6835caa959ed",
+    "createdAt": "2026-02-19T15:46:40.889Z",
+    "type": "page_view",
+    "page": "/mentions-legales",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "15caefb8-29fd-4c0e-96f4-f0554d9e4c87",
+    "createdAt": "2026-02-19T15:48:18.889Z",
+    "type": "form_submit",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "da30ca2c-6712-4e4e-b7e4-5e24ac852375",
+    "createdAt": "2026-02-19T15:57:55.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "93edfac6-e9b2-4a0c-a79f-8f1a6fcf1257",
+    "createdAt": "2026-02-19T16:13:23.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "a3cbc418-727f-4c4a-a72c-deb5a0c62222",
+    "createdAt": "2026-02-19T16:18:54.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "feab8072-60a4-4c6e-bd00-c957a41ce9d6",
+    "createdAt": "2026-02-19T16:33:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "82afdf4a-895c-4ff4-822b-385fb38cfbdd",
+    "createdAt": "2026-02-19T16:53:59.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "9b1ca5ec-a9f8-4013-aab7-50e495d92323",
+    "createdAt": "2026-02-19T16:57:36.889Z",
+    "type": "cta_click",
+    "page": "/",
+    "label": "cta-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "f4f1a022-ebc5-4179-9b10-07a2d6a14b99",
+    "createdAt": "2026-02-19T17:21:45.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "90cfeea1-de9d-41e3-82c2-945b9fca1374",
+    "createdAt": "2026-02-19T17:28:20.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "2b8a3728-beb7-4dfd-b4f9-d581e74210f8",
+    "createdAt": "2026-02-19T17:53:25.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "aa7a2e4f-0950-45bb-afe8-b676a4df79a5",
+    "createdAt": "2026-02-19T17:59:10.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "b0bd7c58-9a4a-4a74-99a7-acfb01e1aac9",
+    "createdAt": "2026-02-19T18:16:15.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "6bc41dad-d564-4349-bea7-6ccc9dc294ae",
+    "createdAt": "2026-02-19T18:33:36.889Z",
+    "type": "page_view",
+    "page": "/construction-neuve",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "908b5238-c668-4478-a9ea-beec5f297c55",
+    "createdAt": "2026-02-19T18:38:39.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "2a038a9c-382d-45d6-b68c-be100dffd1fb",
+    "createdAt": "2026-02-19T18:43:18.889Z",
+    "type": "form_start",
+    "page": "/contact",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "baf301d0-6aa0-4cac-ad68-2fbf046cdca9",
+    "createdAt": "2026-02-19T18:49:30.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "4aeee9d9-d287-458f-88c5-ae4067fbe6c8",
+    "createdAt": "2026-02-19T19:03:25.889Z",
+    "type": "page_view",
+    "page": "/contact",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "932a5dd7-2e16-498f-910a-842e1945171d",
+    "createdAt": "2026-02-19T19:09:07.889Z",
+    "type": "cta_click",
+    "page": "/construction-neuve",
+    "label": "hero-devis",
+    "ua": "Mozilla/5.0"
+  },
+  {
+    "id": "bbe285dc-e4ca-4128-8f9f-0d7b25f3291d",
+    "createdAt": "2026-02-19T19:21:39.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "14a7cc17-7313-434a-ad19-e37cdeec24ab",
+    "createdAt": "2026-02-19T19:33:53.889Z",
+    "type": "page_view",
+    "page": "/",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "1ec676bc-2ada-4356-a81f-9445c0ad3583",
+    "createdAt": "2026-02-19T19:46:03.889Z",
+    "type": "page_view",
+    "page": "/services",
+    "referrer": "https://www.google.com/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "cad4fd87-d18d-47bb-a531-55900c88e13e",
+    "createdAt": "2026-02-19T20:14:51.889Z",
+    "type": "page_view",
+    "page": "/realisations",
+    "referrer": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+  },
+  {
+    "id": "36af5f6d-73b7-46d0-9218-9b09e645261a",
+    "createdAt": "2026-02-19T19:32:53.985Z",
+    "type": "page_view",
+    "page": "/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.7632.6 Safari/537.36",
+    "referrer": "http://localhost:3000/"
+  },
+  {
+    "id": "79f3433c-57fe-4460-9fe8-7e36102e35b4",
+    "createdAt": "2026-02-19T19:34:05.642Z",
+    "type": "page_view",
+    "page": "/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.7632.6 Safari/537.36",
+    "referrer": "http://localhost:3000/"
+  },
+  {
+    "id": "83e926d8-6288-4ec5-95c6-25f91b276e86",
+    "createdAt": "2026-02-19T19:35:23.308Z",
+    "type": "page_view",
+    "page": "/",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.7632.6 Safari/537.36",
+    "referrer": "http://localhost:3000/"
+  }
+]
